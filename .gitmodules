@@ -1,9 +1,9 @@
 [submodule "cosmologger"]
 	path = cosmologger
-	url = git@github.com:archway-network/cosmologger.git
+	url = git@github.com:mojtaba-esk/cosmologger.git
 [submodule "valuter"]
 	path = valuter
-	url = git@github.com:archway-network/valuter.git
+	url = git@github.com:mojtaba-esk/valuter.git
 [submodule "valuter-ui"]
 	path = valuter-ui
 	url = git@github.com:archway-network/valuter-ui.git
